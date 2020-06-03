@@ -94,3 +94,7 @@ db.sqlite3
 
 ### PyCharm ###
 .idea/
+
+
+### Node Modules ###
+node_modules
